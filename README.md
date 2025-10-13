@@ -64,7 +64,7 @@
 
 ---
 
-⭐️ 来自 [你的用户名](https://github.com/Ginso02)
+⭐️ 来自 [Ginso02](https://github.com/Ginso02)
 
 > "You only live once"
 
