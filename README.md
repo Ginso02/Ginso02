@@ -48,11 +48,6 @@
 - 🎵 **音乐** - 喜欢听轻音乐和流行歌曲来放松
 - 🥾 **徒步** - 周末喜欢探索城市的徒步路线
 
-## 📊 GitHub 统计
-
-![你的GitHub统计](https://github-readme-stats.vercel.app/api?username=Ginso02&show_icons=true&theme=radical)
-
-![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginso02&layout=compact&theme=radical)
 
 ## 📫 联系我
 
